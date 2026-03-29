@@ -77,6 +77,22 @@ I work on problem-solving and algorithms, and apply the same structured thinking
 
 ---
 
+## GitHub Stats
+ 
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rudra1806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6A00&icon_color=FF6A00&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rudra1806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6A00&text_color=c9d1d9"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rudra1806&theme=tokyonight&hide_border=true&background=0d1117&ring=FF6A00&fire=EE0979&currStreakLabel=FF6A00"/>
+ 
+</div>
+ 
+---
 
 ## Connect With Me
 
