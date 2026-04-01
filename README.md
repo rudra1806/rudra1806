@@ -7,7 +7,6 @@
     Hello 👋 , I'm Rudra Sanandiya !
   </span>
 </h1>
-<hr/>
 
 ## About Me
 
