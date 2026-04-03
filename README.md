@@ -52,6 +52,7 @@ I work on problem-solving and algorithms, and apply the same structured thinking
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
 </p>
 
 ### AI, ML & Data Science
@@ -80,7 +81,7 @@ I work on problem-solving and algorithms, and apply the same structured thinking
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rudra1806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6A00&icon_color=FF6A00&text_color=c9d1d9"/>
+<img height="180em" src="https://camo.githubusercontent.com/163564de1b6f8fd12fa60295647458bec45b5c4cd8c1432aae91ad9acf39a496/68747470733a2f2f6769746875622d726561646d652d73746174732d666173742e76657263656c2e6170702f6170693f757365726e616d653d7275647261313830362673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d4646364130302669636f6e5f636f6c6f723d46463641303026746578745f636f6c6f723d6339643164392672616e6b5f69636f6e3d676974687562"/>
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rudra1806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6A00&text_color=c9d1d9"/>
  
 </div>
@@ -90,19 +91,35 @@ I work on problem-solving and algorithms, and apply the same structured thinking
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rudra1806&theme=tokyonight&hide_border=true&background=0d1117&ring=FF6A00&fire=EE0979&currStreakLabel=FF6A00"/>
  
 </div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra1806&bg_color=0d1117&color=FF6A00&line=EE0979&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</div> -->
  
 ---
 
-## Connect With Me
-
-<p align="center">
+## Let's Connect
+ 
+<div align="center">
   <a href="https://www.linkedin.com/in/rudra-sanandiya-71b098304/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:rudrapatel.rdp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/rudra1806">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</div>
+ 
+<br/>
+ 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
+ 
+<div align="center">
+  <sub>⚡ Crafted with logic and a lot of debugging sessions | <b>Rudra Sanandiya</b></sub>
+</div>
