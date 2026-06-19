@@ -92,9 +92,9 @@ I work on problem-solving and algorithms, and apply the same structured thinking
  
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra1806&bg_color=0d1117&color=FF6A00&line=EE0979&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
+</div> -->
  
 ---
 
